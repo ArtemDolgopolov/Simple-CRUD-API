@@ -76,7 +76,7 @@
 
   - **URL**
 
-    api/users/{userId}
+    /api/users/{userId}
 
   - **Method:**
 
@@ -90,7 +90,7 @@
 
   - **URL**
 
-    api/users
+    /api/users
 
     Example (for postman):
 
@@ -114,7 +114,7 @@
 
   - **URL**
 
-    api/users/{userId}
+    /api/users/{userId}
 
   - **Method:**
 
@@ -128,7 +128,7 @@
 
   - **URL**
 
-    api/users/{userId}
+    /api/users/{userId}
 
   - **Method:**
 
