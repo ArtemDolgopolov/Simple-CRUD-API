@@ -4,13 +4,19 @@
 - Clone this repo:
 
     ```bash
-    git clone 
+    git clone https://github.com/ArtemDolgopolov/Simple-CRUD-API.git
+    ```
+
+- Switch to the develop branch:
+
+   ```bash
+    git checkout develop
     ```
 
 - Move to folder:
 
     ```bash
-    cd crud-api
+    cd Simple-CRUD-API
     ```
 
 - Install dependencies:
